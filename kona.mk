@@ -217,11 +217,7 @@ PRODUCT_PACKAGES += \
 BOARD_ANT_WIRELESS_DEVICE := "vfs-prerelease"
 PRODUCT_PACKAGES += \
     AntHalService-Soong \
-    com.dsi.ant.antradio_library \
     com.dsi.ant@1.0.vendor
-
-PRODUCT_COPY_FILES += \
-    external/ant-wireless/antradio-library/com.dsi.ant.antradio_library.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/com.dsi.ant.antradio_library.xml
 
 # Cgroup and task_profiles
 PRODUCT_COPY_FILES += \
