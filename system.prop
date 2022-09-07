@@ -48,7 +48,7 @@ persist.demo.hdmirotationlock=false
 # SkiaGL Threaded
 debug.renderengine.backend=skiaglthreaded
 debug.hwui.renderer=skiagl
-renderthread.skia.reduceopstasksplitting=true 
+renderthread.skia.reduceopstasksplitting=true
 
 # IMS
 persist.dbg.volte_avail_ovr=1
@@ -109,9 +109,6 @@ ro.charger.enable_suspend = 1
 #Disable MTE Async for system server
 arm64.memtag.process.system_server=off
 
-# Disable blur on app launch
-ro.launcher.blur.appLaunch=0
-
 # ZRAM writeback
 ro.zram.mark_idle_delay_mins=60
 ro.zram.first_wb_delay_mins=180
@@ -121,5 +118,5 @@ ro.zram.periodic_wb_delay_hours=24
 ro.spark.maintainer= Dark Phoenix
 ro.spark.maintainer.username= Dark Phoenix
 
-#AvoidGfxAccel 
+#AvoidGfxAccel
 ro.config.avoid_gfx_accel=true
