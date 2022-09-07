@@ -183,7 +183,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.audio@2.0-impl \
     android.hardware.audio@4.0-impl
-    
+
 # Alexa Hands Free Stuff
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/alexa/amzn.alexa.properties:$(TARGET_COPY_OUT_SYSTEM)/etc/amzn.alexa.properties \
@@ -448,7 +448,7 @@ PRODUCT_PACKAGES += \
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-lineage
+    $(LOCAL_PATH)/overlay-derp
 
 PRODUCT_ENFORCE_RRO_TARGETS := *
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += $(LOCAL_PATH)/overlay/packages/apps/CarrierConfig
@@ -544,10 +544,6 @@ PRODUCT_COPY_FILES += \
 # Smart IDLE Maintaince
 PRODUCT_SYSTEM_PROPERTIES += \
     persist.device_config.storage_native_boot.smart_idle_maint_period=10
-
-# Remove unwanted packages
-PRODUCT_PACKAGES += \
-    RemovePackages
 
 # Telephony
 PRODUCT_PACKAGES += \
