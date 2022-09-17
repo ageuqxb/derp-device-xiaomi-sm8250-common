@@ -41,8 +41,6 @@
             </intent-filter>
         </receiver>
 
-       </service>
-
         <service android:name=".doze.DozeService"
                  android:exported="true"
                  android:permission="XiaomiDozeService">
@@ -93,8 +91,7 @@
             <meta-data
                 android:name="com.android.settings.order"
                 android:value="-255" />
-
-        </service>
+        </activity>
 
         <activity
             android:name=".thermal.ThermalActivity"
