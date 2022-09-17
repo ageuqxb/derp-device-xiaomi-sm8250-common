@@ -337,11 +337,7 @@
         <surround-decoder-enable value="true"/>
         <surround-boost value="18"/>
         <volmax-boost value="17"/>
-<<<<<<< HEAD
         <volume-leveler-enable value="false"/>
-=======
-        <volume-leveler-enable value="false"/>
->>>>>>> 933e7bb (sm8250-common: Dolby: <volume-leveler-enable value="false"/>)
         <volume-leveler-amount value="0"/>
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
@@ -399,11 +395,7 @@
         <surround-decoder-enable value="true"/>
         <surround-boost value="0"/>
         <volmax-boost value="32"/>
-<<<<<<< HEAD
         <volume-leveler-enable value="false"/>
-=======
-        <volume-leveler-enable value="false"/>
->>>>>>> 933e7bb (sm8250-common: Dolby: <volume-leveler-enable value="false"/>)
         <volume-leveler-amount value="0"/>
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
@@ -444,11 +436,7 @@
         <surround-decoder-enable value="true"/>
         <surround-boost value="0"/>
         <volmax-boost value="32"/>
-<<<<<<< HEAD
         <volume-leveler-enable value="false"/>
-=======
-        <volume-leveler-enable value="false"/>
->>>>>>> 933e7bb (sm8250-common: Dolby: <volume-leveler-enable value="false"/>)
         <volume-leveler-amount value="0"/>
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
@@ -477,11 +465,7 @@
         <surround-decoder-enable value="true"/>
         <surround-boost value="72"/>
         <volmax-boost value="48"/>
-<<<<<<< HEAD
         <volume-leveler-enable value="false"/>
-=======
-        <volume-leveler-enable value="false"/>
->>>>>>> 933e7bb (sm8250-common: Dolby: <volume-leveler-enable value="false"/>)
         <volume-leveler-amount value="0"/>
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
@@ -510,11 +494,7 @@
         <surround-decoder-enable value="true"/>
         <surround-boost value="0"/>
         <volmax-boost value="32"/>
-<<<<<<< HEAD
         <volume-leveler-enable value="false"/>
-=======
-        <volume-leveler-enable value="false"/>
->>>>>>> 933e7bb (sm8250-common: Dolby: <volume-leveler-enable value="false"/>)
         <volume-leveler-amount value="0"/>
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
@@ -555,11 +535,7 @@
         <surround-decoder-enable value="true"/>
         <surround-boost value="0"/>
         <volmax-boost value="16"/>
-<<<<<<< HEAD
         <volume-leveler-enable value="false"/>
-=======
-        <volume-leveler-enable value="false"/>
->>>>>>> 933e7bb (sm8250-common: Dolby: <volume-leveler-enable value="false"/>)
         <volume-leveler-amount value="0"/>
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
@@ -617,11 +593,7 @@
         <surround-decoder-enable value="true"/>
         <surround-boost value="0"/>
         <volmax-boost value="32"/>
-<<<<<<< HEAD
         <volume-leveler-enable value="false"/>
-=======
-        <volume-leveler-enable value="false"/>
->>>>>>> 933e7bb (sm8250-common: Dolby: <volume-leveler-enable value="false"/>)
         <volume-leveler-amount value="0"/>
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
@@ -818,7 +790,6 @@
         <surround-decoder-enable value="true"/>
         <surround-boost value="0"/>
         <volmax-boost value="32"/>
-        <volume-leveler-enable value="false"/>
         <volume-leveler-enable value="false"/>
         <volume-leveler-amount value="0"/>
         <volume-leveler-in-target value="-256"/>
